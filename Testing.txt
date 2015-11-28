@@ -2,5 +2,5 @@ clisp 2.49 / lispworks
 
 compile and load utils
 compile and load sourcecode
-load testes
+load testes file
 testar
